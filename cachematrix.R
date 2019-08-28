@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## makeCacheMatrix is providing the functions needed to check if a matrix inverse 
 ## was already created, and saving the inverse.
 ## cacheSolve checks using the functions of makeCacheMatrix, if the matrix inverse was already created,
